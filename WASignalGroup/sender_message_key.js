@@ -1,4 +1,4 @@
-const { deriveSecrets } = require('libsignal/src/crypto');
+const { deriveSecrets } = require('@hviana-libsignal-node/src/crypto');
 class SenderMessageKey {
     iteration = 0;
 
