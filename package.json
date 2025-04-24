@@ -1,6 +1,6 @@
 {
   "name": "baileys_hviana_deno_ix",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "A WebSockets library for interacting with WhatsApp Web",
   "keywords": [
     "whatsapp",
