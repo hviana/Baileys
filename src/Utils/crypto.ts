@@ -1,5 +1,5 @@
 import { createCipheriv, createDecipheriv, createHash, createHmac, randomBytes } from 'crypto'
-import * as libsignal from '@hviana-libsignal-node'
+import * as libsignal from '@hviana/libsignal-node'
 import { KEY_BUNDLE_TYPE } from '../Defaults'
 import { KeyPair } from '../Types'
 

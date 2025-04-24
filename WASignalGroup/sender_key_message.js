@@ -1,5 +1,5 @@
 const CiphertextMessage = require('./ciphertext_message');
-const curve = require('@hviana-libsignal-node/src/curve');
+const curve = require('@hviana/libsignal-node/src/curve');
 const protobufs = require('./protobufs');
 
 class SenderKeyMessage extends CiphertextMessage {

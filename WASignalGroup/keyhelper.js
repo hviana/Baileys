@@ -1,4 +1,4 @@
-const curve = require('@hviana-libsignal-node/src/curve');
+const curve = require('@hviana/libsignal-node/src/curve');
 const nodeCrypto = require('crypto');
 
 exports.generateSenderKey = function() {
